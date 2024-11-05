@@ -1,0 +1,7 @@
+{
+  "blog": {
+    "searchPlaceholder": "Search Blog...",
+    "notFound": "Blog Not Found",
+    "notFoundDetail": "No blogs that match your search criteria. \"{searchInput}\""
+  }
+}

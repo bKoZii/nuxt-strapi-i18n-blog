@@ -1,0 +1,7 @@
+{
+  "blog": {
+    "searchPlaceholder": "ค้นหา Blog...",
+    "notFound": "ไม่พบ blog",
+    "notFoundDetail": "ไม่พบ blog จากคำค้นหา \"{searchInput}\""
+  }
+}
